@@ -1,5 +1,5 @@
 # Python-KeyLogger
-Writen in Python 2.7.10. 
+Writen in Python 2.7.10. For educational use only.
 
 # Logger
 
