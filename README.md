@@ -9,7 +9,7 @@ to store the keystrokes if we are unable to acquire the text file.
 # Broker
 
 The broker keeps the logger alive using Deamon, even if the victim would try and kill the program via task manager or some other
-for of that. The broker is stored in the startup file and changed to x.exe, from executing the payload.
+form of that. The broker is stored in the startup file and changed to x.exe, from executing the payload.
 
 # Payload
 
